@@ -29,6 +29,7 @@ using namespace std;
 
 int main()
 {
+    //Added tests to add into binary search tree
     BinarySearchTree t1; //Create a Binary tree
     t1.insert (333); //Adding a value to the tree
     t1.insert (888); 

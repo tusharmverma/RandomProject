@@ -10,6 +10,9 @@
 #define BINARYSEARCHTREE_h
 #include"Node.h"
 
+
+//Class Binary Search Tree Starts..
+
 class BinarySearchTree
 {
     Node* root; //Creating a Node
